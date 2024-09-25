@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KieranYui
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Website exploitation 
+- ⚡ Fun fact: "no what you do now"
